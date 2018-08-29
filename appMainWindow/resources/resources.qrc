@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>draft.png</file>
+    <file>reset.png</file>
+    <file>plot.png</file>
+    <file>console.png</file>
+    <file>change_plot.png</file>
+    <file>transform.png</file>
+    <file>info.png</file>
+    <file>exit.png</file>
+    <file>logo.png</file>
+    <file>load.png</file>
+  </qresource>
+</RCC>
